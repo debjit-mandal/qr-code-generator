@@ -15,6 +15,6 @@ To run this code locally:
 
 When you run the script, it will generate the QR code image with the specified properties, including error correction level and encoding mode, and display the QR code in the console.
 
-<img src="https://qr.net/code/kgGY4f.svg" alt="QR"> 
+<a href="https://github.com/debjit-mandal/debjit-mandal"><img src="https://qr.net/code/kgGY4f.svg" alt="QR"></a>
 
 Feel free to suggest any kind of improvements. 
