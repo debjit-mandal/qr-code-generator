@@ -1,4 +1,4 @@
-# qr-code-generator
+# QR Code Generator
 A QR code generator made using Python.
 
 The `qrcode` library must be installed by running `pip install qrcode` in the terminal or command prompt.
